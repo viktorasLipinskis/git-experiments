@@ -2,7 +2,7 @@ import * as React from 'react';
 
 const Second = () => {
     return <div>
-        Second
+        Second updated
     </div>
 }
 
